@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactTetutils-app/static/css/main.abd64e84.css",
-    "main.js": "/ReactTetutils-app/static/js/main.1ae42736.js",
+    "main.js": "/ReactTetutils-app/static/js/main.fca4ec50.js",
     "static/js/787.719ec76d.chunk.js": "/ReactTetutils-app/static/js/787.719ec76d.chunk.js",
     "index.html": "/ReactTetutils-app/index.html",
     "main.abd64e84.css.map": "/ReactTetutils-app/static/css/main.abd64e84.css.map",
-    "main.1ae42736.js.map": "/ReactTetutils-app/static/js/main.1ae42736.js.map",
+    "main.fca4ec50.js.map": "/ReactTetutils-app/static/js/main.fca4ec50.js.map",
     "787.719ec76d.chunk.js.map": "/ReactTetutils-app/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.1ae42736.js"
+    "static/js/main.fca4ec50.js"
   ]
 }
